@@ -6,3 +6,7 @@
   
 だから改行は半角スペースだとあれほど。  
 その他メモ：push前には必ずcdする。エブリシング何とかは$ git add -A→$ git commit -m "recommit" -v→$ git pushで行けた  
+
+branch名 browserify__error  
+マルコフ連鎖のためのnode.jsプラグイン→requireをブラウザが読み込まない→borwserify入れて何とかしたもなんかエラーで動かない  
+中身見て何とかできる範囲じゃない（文量が多すぎる）ので、とりあえずフォルダごとbranch切って一旦供養。二日悩んで結果でないのはダメ
